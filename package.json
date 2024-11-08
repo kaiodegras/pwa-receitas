@@ -1,0 +1,23 @@
+{
+  "name": "receitas-pwa",
+  "version": "1.0.0",
+  "description": "receitas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Luis, kaio",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4",
+    "workbox-cacheable-response": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-recipes": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4",
+    "workbox-streams": "^6.5.4"
+  },
+  "keywords": []
+}
+

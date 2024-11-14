@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-cacheNome = "pwa-receitas";
-downArquivos = ["/", "/index", "/css/doces.css", "/css/style.css", "/css/receitas.css",
-                "/Receitas", "/main.js"];
-=======
 let cacheNome = "pwa-receitas";
 let filesToCache = ["/", "/index", "/css/doces.css", "/css/style.css", "/css/receitas.css", "/manifest.json",
-              "/Receitas", "/main.js", "img/carbonaro.png", "img/churras.png", "img/doce.png", "img/pudim.png", "img/fogo.png", "img/pokemon256.png", "pages/doces", "pages/carnes", "pages/massas", "img/brigadeiro", "img/frango", "img/nhoque", "img/lasanha"];
->>>>>>> 68264796e54b23641e959c6f1af071b6dc497955
+              "/Receitas", "/main.js", "img/carbonaro.png", "img/churras.png", "img/doce.png", "img/pudim.png", "img/fogo.png", "img/pokemon256.png", "pages/doces", "pages/carnes", "pages/massas", "img/brigadeiro.png", "img/frango.png", "img/nhoque.png", "img/lasanha.png", "/css/receitas.css", "/css/massa.css", "/css/doces.css", "/css/carne.css", "/css/style.css"];
 
 self.addEventListener("install", (e) =>{
     e.waitUntil(

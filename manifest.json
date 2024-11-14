@@ -6,13 +6,8 @@
     "display" : "standalone",
     "icons" :[
         {
-<<<<<<< HEAD
-            "src" : "flavicon.png",
-            "sizes" : "209x212",
-=======
             "src" : "/img/pokemon256.png",
             "sizes" : "256x256",
->>>>>>> 68264796e54b23641e959c6f1af071b6dc497955
             "type" : "image/png"
         },{
             "src" : "/img/fogo.png",

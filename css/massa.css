@@ -1,3 +1,9 @@
+.massa{
+    height: 100px;
+    width: 100px;
+    
+}
+
 
 * {
     margin: 0;
@@ -62,9 +68,4 @@ body {
 .steps p {
     font-size: 0.9rem;
     color: #777;
-}
-
-.doces{
-    height: 150px;
-    width: 150px;
 }

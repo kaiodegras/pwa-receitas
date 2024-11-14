@@ -7,7 +7,7 @@
     "icons" :[
         {
             "src" : "flavicon.png",
-            "sizes" : "256x256",
+            "sizes" : "209x212",
             "type" : "image/png"
         }
         ]

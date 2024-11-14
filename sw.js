@@ -1,6 +1,6 @@
 cacheNome = "pwa-receitas";
-downArquivos = ["/", "/index.html", "/css/doces.css", "/css/style.css", "/css/receitas.css",
-                "/Receitas.html", "/main.js"];
+downArquivos = ["/", "/index", "/css/doces.css", "/css/style.css", "/css/receitas.css",
+                "/Receitas", "/main.js"];
 
 self.addEventListener("install", (e) =>{
     e.waitUntil(
